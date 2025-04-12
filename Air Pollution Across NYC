@@ -1,0 +1,27 @@
+✳️ Unlocking the Patterns of Air Pollution Across NYC 🌆🌫️
+
+Over the past few days, I had the opportunity to work on a real-world dataset related to Air Quality in New York City, where I explored pollutant trends, geographical patterns, and seasonal shifts using Python tools like pandas, seaborn, matplotlib, numpy, plotly, and hypothesis testing. The goal? To extract meaningful insights that could inform better environmental decisions. Here's a breakdown of what I discovered:
+
+📌 Key Insights:
+
+1️⃣ Pollutant Distribution Overview
+Using histograms and descriptive stats, I explored the spread of Nitrogen Dioxide (NO2) levels across different boroughs and time periods. Some areas showed consistently higher values — definitely a call for closer scrutiny.
+
+2️⃣ Air Quality Across Regions
+A box plot comparison across the top 10 most measured regions revealed that areas like Upper West Side and Flushing showed fluctuating patterns. These visualizations helped pinpoint potential hotspots for air quality concerns.
+
+3️⃣ Seasonal Variation of NO2 Levels
+By segmenting the data into Winter and Summer periods and running hypothesis tests, we found that NO2 levels are statistically higher in winter — likely due to increased heating systems and stagnant air.
+
+4️⃣ Trends Over Time
+With time-series line plots, I tracked how NO2 levels have changed from 2014 to 2017. While there were seasonal fluctuations, overall levels have seen slight decreases — a positive trend to keep pushing forward.
+
+5️⃣ Heatmap of Influential Variables
+A correlation heatmap gave a clearer picture of how various factors (including geographical codes and indicator IDs) interact with pollution metrics, providing clues for deeper multivariate analysis.
+
+🔍 This project wasn’t just about visualizing numbers — it was about connecting environmental data with real human impact. It sharpened my skills in EDA, statistical testing, and building modular Python functions for scalable analysis.
+
+🙏 A special shoutout to Ms. BALJINDER KAUR for her encouragement and mentorship throughout this analytical journey.
+
+🧰 Tools Used: Python | Pandas | Numpy | Seaborn | Matplotlib | Plotly | Scipy
+📊 Data Science in action — one graph at a time. Let’s breathe cleaner, together. 🌍
